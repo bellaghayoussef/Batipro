@@ -74,6 +74,6 @@ Toute éventuelle mise à jour de cette politique sera publiée sur cette page e
 ## 9. Contact
 Pour toute question concernant cette politique de confidentialité ou le fonctionnement de l'application BâtiPro, vous pouvez nous contacter :
 
-- **Email :** contact.batipro.app@gmail.com
+- **Email :** bellaghayoussef20@gmail.com
 - **Développeur :** Youssef
 - **Application :** BâtiPro (`com.youssef.batipro`)
